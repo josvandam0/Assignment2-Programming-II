@@ -1,0 +1,5 @@
+patients: Data/patients.csv
+encounters: Data/encounters.csv
+conditions: Data/conditions.csv
+careplans: Data/careplans.csv
+observations: Data/observations.csv
