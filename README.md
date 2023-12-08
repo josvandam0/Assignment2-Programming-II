@@ -33,7 +33,7 @@ Example output of the map:
 
 **Map**
 
-![Map]([https://raw.githubusercontent.com/josvandam0/Assignment2-Programming-II/main/example%20map.png)
+![Plot](https://raw.githubusercontent.com/josvandam0/Assignment2-Programming-II/main/example%20map.png)
 
 Example output of the plot
 
