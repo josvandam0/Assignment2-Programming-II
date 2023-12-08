@@ -22,7 +22,7 @@ and a plot in which the difference between the values of certain lab results of 
  **```yaml```** 
 
 ## What files to use
-To use this script you will need some data files from COVID19 patients [1].
+To use this script you will need some data files from COVID19 patients.
 
 
 ## How to use
@@ -31,10 +31,10 @@ The necessary information about how to use this IPYNB file is included in the fi
 ## Screenshots
 Example output of the map:
 
-**Bokeh plots**
-![bokeh plots](https://github.com/josvandam0/Assignment1-Programming-II/blob/main/Bokeh_plot.png)
+**Map**
+![Map]([https://raw.githubusercontent.com/josvandam0/Assignment2-Programming-II/main/example%20map.png)
 
 Example output of the plot
 
-**Seaborn violinplot**
-![Upreg](https://github.com/josvandam0/Assignment1-Programming-II/blob/main/Seaborn_violinplot.png)
+**Plot**
+![Plot](https://raw.githubusercontent.com/josvandam0/Assignment2-Programming-II/main/example%20plot.png)
