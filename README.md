@@ -32,9 +32,11 @@ The necessary information about how to use this IPYNB file is included in the fi
 Example output of the map:
 
 **Map**
+
 ![Map]([https://raw.githubusercontent.com/josvandam0/Assignment2-Programming-II/main/example%20map.png)
 
 Example output of the plot
 
 **Plot**
+
 ![Plot](https://raw.githubusercontent.com/josvandam0/Assignment2-Programming-II/main/example%20plot.png)
